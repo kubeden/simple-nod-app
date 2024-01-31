@@ -1,0 +1,23 @@
+{
+  "name": "simple-nod-app",
+  "version": "1.0.0",
+  "description": "This is a simple node application you can use to test your Kubernetes configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubeden/simple-nod-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubeden/simple-nod-app/issues"
+  },
+  "homepage": "https://github.com/kubeden/simple-nod-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
